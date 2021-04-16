@@ -1,4 +1,4 @@
-package com.study.programmers;
+package com.study.programmerslv1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
