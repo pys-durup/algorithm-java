@@ -21,6 +21,7 @@ public class Collatz {
                 num = num * 3 + 1;
             }
             count++;
+
         }
     }
 }
